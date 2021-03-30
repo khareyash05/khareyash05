@@ -16,4 +16,4 @@ Here are some ideas to get you started:
   - ⚡ Fun fact: I love bananas(not a monkey though) <br>
   <hr>
   
-  - ![Github stats](https://github-readme-stats.vercel.app/api?username=khareyash05)
+  - ![Yash Khare's Github stats](https://github-readme-stats.vercel.app/api?username=khareyash05)
