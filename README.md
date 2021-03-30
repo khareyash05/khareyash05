@@ -1,8 +1,6 @@
 ### Hi there 👋
 Myself Yash Khare
 
-<!--
-**khareyash05/khareyash05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 Here are some ideas to get you started:
 
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
   <hr>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khareyash05&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khareyash05&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khareyash05)
