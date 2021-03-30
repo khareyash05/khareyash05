@@ -14,3 +14,6 @@ Here are some ideas to get you started:
   - 📫 How to reach me: My linkedin Profile https://www.linkedin.com/in/yash-khare-0978821aa/ <br>
   - 😄 Pronouns: he/him <br>
   - ⚡ Fun fact: I love bananas(not a monkey though) <br>
+  <hr>
+  
+  [![Yash's github stats](https://github-readme-stats.vercel.app/api?username=khareyash05)](https://github.com/khareaysh05/github-readme-stats)
