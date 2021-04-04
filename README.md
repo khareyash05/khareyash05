@@ -1,7 +1,8 @@
 ### Hi there 👋
-Myself <i>Yash Khare</i>
+## Myself Yash Khare 
+#### I am pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
 
-  - 🔭 I’m currently working on MERN Project <br>
+  - 🔭 I’m currently working on innovations <br>
   - 🌱 I’m currently learning Node JS <br>
   - 👯 I’m looking to collaborate on MERN and C++ <br>
   - 🤔 I’m looking for help with JavaScript new feature <br>
