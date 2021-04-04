@@ -1,8 +1,5 @@
 ### Hi there 👋
-Myself Yash Khare
-
-
-Here are some ideas to get you started:
+Myself <i>Yash Khare</i>
 
   - 🔭 I’m currently working on MERN Project <br>
   - 🌱 I’m currently learning Node JS <br>
