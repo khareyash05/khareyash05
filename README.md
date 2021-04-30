@@ -3,7 +3,7 @@
 #### I am a freshman pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
 
   - 🔭 I’m currently working on innovations <br>
-  - 🌱 I’m currently learning Node JS <br>
+  - 🌱 I’m currently learning MERN stack integrations <br>
   - 👯 I’m looking to collaborate on MERN and C++ <br>
   - 🤔 I’m looking for help with JavaScript new feature <br>
   - 💬 Ask me about JavaScript (Till Advanced) and C++ for DSA <br>
