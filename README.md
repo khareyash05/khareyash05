@@ -1,6 +1,10 @@
 ### Hi there 👋
 ## Myself Yash Khare 
 #### I am a freshman pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
+[![Instagram Badge](https://img.shields.io/badge/-https://www.instagram.com/khareyash05_4_9/-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/khareyash05_4_9/)](https://instagram.com/khareyash05_4_9/)
+[![Gmail Badge](https://img.shields.io/badge/-khareyash05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khareyash05@gmail.com)](mailto:khareyash05@gmail.com)
+
+[![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=khareyash05&theme=xcode)](https://git.io/khareyash05)
 
   - 🔭 I’m currently working on innovations <br>
   - 🌱 I’m currently learning MERN stack integrations <br>
@@ -18,6 +22,7 @@
   <img src = "https://img.icons8.com/plasticine/2x/react.png" width="60px"/>
   <img alt="Node.js" width="60px" src="https://img.icons8.com/color/240/000000/nodejs.png">
   <img src = "https://img.icons8.com/color/2x/mongodb.png" width="60px"/>
+  <img src = "https://img.icons8.com/color/2x/redux.png" width="60px"/>
    <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60px"/>
   <img alt="github" width="60px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
   <img alt="visual studio code" width="60px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
