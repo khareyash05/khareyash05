@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Myself Yash Khare 
-#### I am a freshman pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
+#### I am a sophomore pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
 [![Instagram Badge](https://img.shields.io/badge/-https://www.instagram.com/khareyash05_4_9/-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/khareyash05_4_9/)](https://instagram.com/khareyash05_4_9/)
 [![Gmail Badge](https://img.shields.io/badge/-khareyash05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khareyash05@gmail.com)](mailto:khareyash05@gmail.com)
 
