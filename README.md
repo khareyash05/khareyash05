@@ -8,16 +8,19 @@
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/khareyash05">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/khareyash05409/">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
-</a>
+</a>&nbsp;&nbsp;
+ <a href="https://www.twitter.com/YashKha57954753/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+</a>&nbsp;&nbsp;
 </p>
 
 [![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=khareyash05&theme=xcode)](https://git.io/khareyash05)
 
   - 🔭 I’m currently working on innovations <br>
-  - 🌱 I’m currently learning MERN stack integrations <br>
+  - 🌱 I’m currently learning Deep Learning <br>
   - 👯 I’m looking to collaborate on MERN and C++ <br>
   - 🤔 I’m looking for help with JavaScript new feature <br>
   - 💬 Ask me about JavaScript (Till Advanced) and C++ for DSA <br>
