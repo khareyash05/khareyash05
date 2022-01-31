@@ -1,8 +1,18 @@
 ### Hi there 👋
 ## Myself Yash Khare 
 #### I am a sophomore pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
-[![Instagram Badge](https://img.shields.io/badge/-https://www.instagram.com/khareyash05/-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/khareyash05/)](https://instagram.com/khareyash05/)
-[![Gmail Badge](https://img.shields.io/badge/-khareyash05@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khareyash05@gmail.com)](mailto:khareyash05@gmail.com)
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/yash-khare-0978821aa/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/khareyash05">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>
+<a href="https://www.facebook.com/khareyash05409/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+</a>
+</p>
 
 [![Samyak's github activity graph](https://activity-graph.herokuapp.com/graph?username=khareyash05&theme=xcode)](https://git.io/khareyash05)
 
@@ -34,6 +44,11 @@
   <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
   <img src="https://img.icons8.com/color/64/000000/kubernetes.png"/>
   <img src="https://img.icons8.com/color/64/000000/elasticsearch.png"/>
+  <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/64/000000/google-cloud.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/64/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/>
 </span>
 <hr>
   
