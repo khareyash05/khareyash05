@@ -1,13 +1,11 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ## Myself Yash Khare 
-#### I am a sophomore pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
+#### I am in my sophomore year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
-
-
 
 <div align="center">
     <br>
-    <img src="https://metrics.lecoq.io/khareyash05?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=YashKha57954753&config.timezone=Asia%2FKolkata">
+    <img src="https://metrics.lecoq.io/khareyash05?template=classic&isocalendar=1&languages=1&achievements=1&notable=1&introduction=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&introduction.title=true&config.timezone=Asia%2FCalcutta">
 </div>
   <hr>
   
@@ -37,12 +35,9 @@
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/>
 </span>
 <hr>
+
  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khareyash05&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khareyash05)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khareyash05)](https://git.io/streak-stats)
- 
- 
+<h3>Connect with Me!</h3>
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/yash-khare-0978821aa/">
