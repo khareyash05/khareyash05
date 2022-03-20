@@ -24,7 +24,6 @@
   <img alt="github" width="60px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
   <img alt="visual studio code" width="60px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
   <img src = "https://img.icons8.com/wired/2x/postman-api.png" width="60px"/>
-  <img src = "https://img.icons8.com/dusk/2x/python.png" width="60px"/>
   <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
   <img src="https://img.icons8.com/color/64/000000/kubernetes.png"/>
   <img src="https://img.icons8.com/color/64/000000/elasticsearch.png"/>
