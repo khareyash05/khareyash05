@@ -1,11 +1,10 @@
-<img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"/>
+<p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
+
+
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ## Myself Yash Khare 
 #### I am in my sophomore year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
 ![Visitor Count](https://profile-counter.glitch.me/khareyash05/count.svg)
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
-
-
 
 <div align="center">
     <br>
