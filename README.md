@@ -4,6 +4,7 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ## Myself Yash Khare 
 #### I am in my pre-final year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
+I am an open source enthusiast with contributions in CNCF,Kubernetes,Microsoft Azure and Google<br>
 ![Visitor Count](https://profile-counter.glitch.me/khareyash05/count.svg)
 
 <div align="center">
@@ -46,13 +47,14 @@
 <a href="https://www.linkedin.com/in/yash-khare-0978821aa/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
+    <a href="https://www.twitter.com/YashKha57954753/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
+</a>&nbsp;&nbsp;
 <a href="https://instagram.com/khareyash05">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/khareyash05409/">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
 </a>&nbsp;&nbsp;
- <a href="https://www.twitter.com/YashKha57954753/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
-</a>&nbsp;&nbsp;
+ 
 </p>
