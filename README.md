@@ -35,11 +35,6 @@ I am an open source enthusiast with contributions in CNCF,Kubernetes,Microsoft A
   <img src="https://img.icons8.com/color/64/000000/tensorflow.png"/>
 </span>
 <hr>
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khareyash05&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khareyash05)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khareyash05)](https://git.io/streak-stats)
-
  
 <h3>Connect with Me!</h3>
 <p align="center">
