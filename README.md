@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 ## Myself Yash Khare 
-#### I am in my pre-final year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College
+#### I am in my final year pursuing B.Tech in Computer Science and Engineering from Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
 I am an open source enthusiast with contributions in CNCF,Kubernetes,Microsoft Azure and Google<br>
 ![Visitor Count](https://profile-counter.glitch.me/khareyash05/count.svg)
 
