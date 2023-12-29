@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Khare</h1>
-<h3 align="center">An aspiring DevOps/SRE Engineer from India</h3>
+<h3 align="center">An aspiring Software Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khareyash05" alt="khareyash05" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/khareyash05" target="blank"><img src="https://img.shields.io/twitter/follow/yashkha57954753?logo=twitter&style=for-the-badge" alt="khareyash05" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khareyash05" target="blank"><img src="https://img.shields.io/twitter/follow/khareyash05?logo=twitter&style=for-the-badge" alt="khareyash05" /></a> </p>
 
 - 🔭 I’m currently working on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
