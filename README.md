@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Langchain , LLM's**
 
 - 👯 I’m looking to collaborate on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://khareyash05.github.io/home/](https://khareyash05.github.io/home/)
 
-- 💬 Ask me about **MERN,Golang,Kubernetes**
+- 💬 Ask me about **Full Stack Development,Golang,Kubernetes**
 
 - 📫 How to reach me **yashkhare0511@gmail.com**
 
