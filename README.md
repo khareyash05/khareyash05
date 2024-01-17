@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
-- 🌱 I’m currently learning **Langchain , LLM's**
+- 🌱 I’m currently learning **TRPC,Prisma Integration in NextJS**
 
 - 👯 I’m looking to collaborate on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
-- 🤝 I’m looking for help with [Langchain](https://github.com/zhihu/norm)
+- 🤝 I’m looking for help with [TRPC](https://github.com/zhihu/norm)
 
 - 👨‍💻 All of my projects are available at [https://khareyash05.github.io/home/](https://khareyash05.github.io/home/)
 
-- 💬 Ask me about **Full Stack Development,Golang,Kubernetes**
+- 💬 Ask me about **Full Stack Web Development,Golang,Kubernetes**
 
 - 📫 How to reach me **yashkhare0511@gmail.com**
 
