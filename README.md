@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
-- 🌱 I’m currently learning **TRPC,Prisma Integration in NextJS**
+- 🌱 I’m currently learning **Scalable Chat Systems**
 
 - 👯 I’m looking to collaborate on [Clusterpedia](https://github.com/clusterpedia-io/clusterpedia)
 
-- 🤝 I’m looking for help with [TRPC](https://github.com/zhihu/norm)
+- 🤝 I’m looking for help with [Message Queues](https://github.com/zhihu/norm)
 
 - 👨‍💻 All of my projects are available at [https://khareyash05.github.io/home/](https://khareyash05.github.io/home/)
 
