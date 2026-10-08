@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/khareyash05" target="blank"><img src="https://img.shields.io/twitter/follow/khareyash05?logo=twitter&style=for-the-badge" alt="khareyash05" /></a> </p>
 
-- 🔭 I’m currently working on [Keploy](https://github.com/keploy/keploy)
+- 🔭 I’m currently working on [TraqCheck](https://github.com/TraqCheck)
 
 - 🌱 I’m currently learning **Scalable Chat Systems**
 
